@@ -1,0 +1,9 @@
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Datos.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Datos.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Encapsular.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Utilitarios.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Encapsular.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\obj\Debug\Datos.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Datos\obj\Debug\Datos.pdb

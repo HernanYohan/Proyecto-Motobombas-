@@ -1,0 +1,5 @@
+C:\Users\user\Documents\GitHub\proyeto_m\Encapsular\bin\Debug\Encapsular.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\user\Documents\GitHub\proyeto_m\Encapsular\obj\Debug\Encapsular.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\proyeto_m\Encapsular\obj\Debug\Encapsular.dll
+C:\Users\user\Documents\GitHub\proyeto_m\Encapsular\obj\Debug\Encapsular.pdb
